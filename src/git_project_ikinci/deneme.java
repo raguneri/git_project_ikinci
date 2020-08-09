@@ -5,6 +5,7 @@ public class deneme {
 	public static void main(String[] args) {
 		
 		System.out.println("denme");
+		System.out.println("denme 111");
 
 	}
 
