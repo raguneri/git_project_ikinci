@@ -7,6 +7,7 @@ public class deneme {
 		System.out.println("denme");
 		System.out.println("denme 111");
 		System.out.println("denme 1121");
+		System.out.println("ckisma memet");
 
 	}
 
